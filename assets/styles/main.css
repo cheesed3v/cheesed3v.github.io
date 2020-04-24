@@ -5,8 +5,12 @@ Black: #333333
 
 */
 
-html {
+* {
   font-family: "Arial";
+}
+
+html {
+  text-align: center;
   color: #33333;
   background-color: white;
 }
