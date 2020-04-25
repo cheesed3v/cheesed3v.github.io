@@ -1,8 +1,9 @@
 /*
 Violet: #FF9FE5
 White: white
-Blue: #0000ff
+Blue: #3c5fe6
 Gray: #817d7d
+Black: #504f54
 */
 
 * {
@@ -11,7 +12,7 @@ Gray: #817d7d
 
 html {
   text-align: center;
-  color: #33333;
+  color: #504f54
   background-color: white;
 }
 
@@ -20,7 +21,7 @@ h1 {
   font-family: "Comic Sans MS";
 }
 h2 {
-  color:  #0000ff;
+  color:  #3c5fe6;
 }
 h3 {
   color:#817d7d
