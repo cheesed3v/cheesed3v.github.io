@@ -2,7 +2,7 @@
 Violet: #FF9FE5
 White: white
 Blue: #0000ff
-Gray: #989fa1
+Gray: #817d7d
 */
 
 * {
@@ -23,5 +23,4 @@ h2 {
   color:  #0000ff;
 }
 h3 {
-  color:#989fa1
-}
+  color:#817d7d
