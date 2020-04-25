@@ -2,6 +2,7 @@
 Violet: #FF9FE5
 White: white
 Black: #333333
+Cyan: #00ffff
 
 */
 
@@ -18,4 +19,8 @@ html {
 h1 {
   color: #FF9FE5;
   font-family: "cursive";
+}
+h2 {
+  color: #00ffff;
+  font-family: "sans-serif";
 }
