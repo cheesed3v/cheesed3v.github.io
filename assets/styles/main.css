@@ -12,7 +12,7 @@ Black: #504f54
 
 html {
   text-align: center;
-  color: #504f54
+  color: #504f54;
   background-color: white;
 }
 
@@ -24,4 +24,6 @@ h2 {
   color:  #3c5fe6;
 }
 h3 {
-  color:#6b6666
+  color:#6b6666;
+  font-family: "San Francisco"; 
+}
