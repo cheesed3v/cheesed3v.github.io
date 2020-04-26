@@ -1,6 +1,6 @@
 /*
 Violet: #FF9FE5
-White: white
+White: #ffffff
 Blue: #3c5fe6
 Gray: #6b6666
 Black: #504f54
@@ -13,7 +13,7 @@ Black: #504f54
 html {
   text-align: center;
   color: #504f54;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 h2 {
   color:  #3c5fe6;
 }
-h3 {
+h2 {
   color:#6b6666;
-  font-family: "San Francisco"; 
+  font-family: "Droid Sans"; 
 }
