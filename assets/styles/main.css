@@ -2,7 +2,7 @@
 Violet: #FF9FE5
 White: #ffffff
 Blue: #3c5fe6
-Gray: #6b6666
+Yellow: #fffb00
 Black: #504f54
 */
 
@@ -24,6 +24,6 @@ h2 {
   color:  #3c5fe6;
 }
 h3 {
-  color:#6b6666;
+  color:#fffb00;
   font-family: "Century Gothic"; 
 }
