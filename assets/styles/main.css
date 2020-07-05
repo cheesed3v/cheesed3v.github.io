@@ -4,7 +4,7 @@ White: #ffffff
 Blue: #3c5fe6
 Yellow: #fcce00
 Black: #504f54
-Sliver: #c9c5c5
+Sliver: #e0e0e0
 */
 
 * {
@@ -13,8 +13,8 @@ Sliver: #c9c5c5
 
 html {
   text-align: center;
-  color: #c9c5c5;
-  background-color: #c9c5c5;
+  color: #e0e0e0;
+  background-color: #e0e0e0;
 }
 
 h1 {
