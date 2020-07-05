@@ -4,6 +4,7 @@ White: #ffffff
 Blue: #3c5fe6
 Yellow: #fcce00
 Black: #504f54
+Sliver: #c9c5c5
 */
 
 * {
@@ -12,8 +13,8 @@ Black: #504f54
 
 html {
   text-align: center;
-  color: #504f54;
-  background-color: #ffffff;
+  color: #c9c5c5;
+  background-color: #c9c5c5;
 }
 
 h1 {
