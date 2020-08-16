@@ -2,7 +2,7 @@
 Violet: #FF9FE5
 White: #ffffff
 Blue: #3c5fe6
-Yellow: #fcce00
+Yellow: #ffff00
 Black: #504f54
 Sliver: #e0e0e0
 */
@@ -25,6 +25,22 @@ h2 {
   color:  #3c5fe6;
 }
 h3 {
-  color:#fcce00;
+  color:#ffff00;
   font-family: "Verdana"; 
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: #ffffff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
