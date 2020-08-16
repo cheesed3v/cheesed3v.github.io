@@ -29,11 +29,7 @@ h3 {
   font-family: "Verdana"; 
 }
 
-<html>
-<html>
-<head>
-<style>
-.button {
+button {
   border: none;
   color: #ffff00;
   padding: 15px 32px;
