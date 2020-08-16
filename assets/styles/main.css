@@ -5,6 +5,7 @@ Blue: #3c5fe6
 Yellow: #ffff00
 Black: #504f54
 Sliver: #e0e0e0
+Teal: #5efff4
 */
 
 * {
@@ -39,4 +40,5 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  background-color: #5efff4; 
 }
